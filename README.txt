@@ -1,4 +1,7 @@
 # QVBench
+
+==========  NOTE: ASK to lttallone[at]gmail.com for API key for QVV benchmark  ==========
+
 Slide 1: Cover & Project Identity
     • Title: DynQ-Voice (QVBench)
     • Subtitle: High-Throughput Acoustic Pipeline & Semantic Evaluation Suite on AMD ROCm
